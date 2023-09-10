@@ -2,7 +2,7 @@
 This documentation is prepared as the workflow to accompany the following study:
 
 "Machine Learning for Screening Small Molecules as Passivation Materials for Enhanced Perovskite Solar Cells"
-If you have questions or suggestions, please contact Bo Chen at bochen@xjtu.edu.cn and Xin Zhang zx13460208639@163.com
+If you have questions or suggestions, please contact Bo Chen at bochen@xjtu.edu.cn and Xin Zhang at zx13460208639@163.com
 
 1 Installation
 
@@ -24,7 +24,7 @@ install.packages("scikit-learn")
 
 2 Datasets
 
-The dataset can be obtained from 
+The dataset can be obtained from https://figshare.com/articles/dataset/machine-learning_dataset/24115383
 
 3 Machine-learning classification model
 
