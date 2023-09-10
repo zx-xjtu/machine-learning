@@ -45,7 +45,7 @@ for n in estimator1:
                 score = estimator.score(x_test, y_test_data)
                 accuracy.append(score)
         print(accuracy)
-        print("准确率是：\n", np.mean(accuracy))
+        print("model accuracy：\n", np.mean(accuracy))
 
 
 
