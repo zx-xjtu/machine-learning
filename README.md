@@ -5,6 +5,7 @@ This documentation is prepared as the workflow to accompany the following study:
 If you have questions or suggestions, please contact Bo Chen at bochen@xjtu.edu.cn and Xin Zhang zx13460208639@163.com
 
 1 Installation
+
 To run these codes, please install softwares including Anaconda and PyCharm
 
 Besides, we need to install some packages in PyCharm platform:
