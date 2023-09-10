@@ -23,9 +23,11 @@ install.packages("scikit-learn")
 
 
 2 Datasets
+
 The dataset can be obtained from 
 
 3 Machine-learning classification model
+
 support vector machine
 neural network model 
 random forest
